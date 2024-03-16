@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string name="fioni_nikmatul_fajar_quiz_1">Fioni Nikmatul Fajar Quiz 1</string>
+    <string name="nama">Nama</string>
+    <string name="nama_customer">Nama Customer</string>
+    <string name="membership">Membership</string>
+    <string name="biasa">Biasa</string>
+    <string name="silver">Silver</string>
+    <string name="gold">Gold</string>
+    <string name="kode">Kode</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="proses">Proses</string>
+    <string name="share">Share</string>
+    <string name="detail_transaksi">Detail Transaksi :</string>
+    <string name="thank_you_for_shopping">THANK YOU FOR SHOPPING</string>
+</resources>
